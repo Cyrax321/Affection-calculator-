@@ -1,0 +1,2 @@
+# Affection-calculator-
+Affection meter
